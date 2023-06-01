@@ -1,31 +1,4 @@
-<style>
-    body {
-        mangin: 0;
-    }
 
-    * {
-        font-family: 'Anonymous Pro', monospace;
-        font-weight: 1000;
-        
-    }
-
-    .info {
-        display: flex;
-        flex-direction: row;
-        width: 425px;
-        border-radius: 10px;
-        border: 10px solid #5564eb;
-        background-color: #5564eb;
-        align-items: center;
-        justify-content: center;
-        padding: 10px;
-        margin: 0px;
-    }
-
-    .info > p {
-        text-align: justify;
-    }
-</style>
 
 <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
