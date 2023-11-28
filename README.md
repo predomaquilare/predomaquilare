@@ -8,16 +8,16 @@
 
 <div class="info">
     <p text-align: "center">
-        - Pedro Santana
+        - Pedro Santana<br>
         - I'm 19<br>
-        - Electronics technician at the Federal Institute of Paraíba
-        - Former researcher on Free Educational Robotics Group
-        - Former researcher on research project of biogas production with seafood waste, rolling as programmer, electronic technician and 3d modeller
-        - High experience with MCUs (Arduino, Esp32, Raspberry PI)
-        - PCB Lover/Designer
-        - Enthusiastic Robotics
-        - C, C++ and Python
-        - Advanced portuguese🤓
+        - Electronics technician at the Federal Institute of Paraíba<br>
+        - Former researcher on Free Educational Robotics Group<br>
+        - Former researcher on research project of biogas production with seafood waste, rolling as programmer, electronic technician and 3d modeller<br>
+        - High experience with MCUs (Arduino, Esp32, Raspberry PI)<br>
+        - PCB Lover/Designer<br>
+        - Enthusiastic Robotics<br>
+        - C, C++ and Python<br>
+        - Advanced portuguese🤓<br>
     </p>
 </div>
 
