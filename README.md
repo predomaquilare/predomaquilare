@@ -8,16 +8,16 @@
 
 <div class="info">
     <p text-align: "center">
-        Pedro Guerra Trindade Santana<br>
-        19 Anos<br>
-        4° Eletrônica - Instituto Federal da Paraíba<br>
-        - Pesquisador do Grupo de Robótica Educacional Livre<br>
-        - Pesquisador do projeto de pesquisa de biogás com base em residuos do marisco, atuando como programador e projetista eletrônico<br>
-        - Experiente com microcontroladores(intermediário /avançado)<br>
-        - Experiente em aplicações de robótica(motores, sensores e algoritmos)<br>
-        - C/C++ linguagens mais bem desenvolvidas<br>
-        - Python básico<br>
-        - Ingles avançado🤓<br>
+        - Pedro Santana
+        - I'm 19<br>
+        - Electronics technician at the Federal Institute of Paraíba
+        - Former researcher on Free Educational Robotics Group
+        - Former researcher on research project of biogas production with seafood waste, rolling as programmer, electronic technician and 3d modeller
+        - High experience with MCUs (Arduino, Esp32, Raspberry PI)
+        - PCB Lover/Designer
+        - Enthusiastic Robotics
+        - C, C++ and Python
+        - Advanced portuguese🤓
     </p>
 </div>
 
