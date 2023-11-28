@@ -7,7 +7,7 @@
 </head>
 
 <div class="info">
-    <p>
+    <p text-align: "center">
         Pedro Guerra Trindade Santana<br>
         19 Anos<br>
         4° Eletrônica - Instituto Federal da Paraíba<br>
