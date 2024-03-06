@@ -16,7 +16,7 @@
         - Former researcher on research project of biogas production with seafood waste, rolling as programmer, electronic technician and 3d modeller<br>
         - High experience with MCUs (Arduino, Esp32, Raspberry PI)<br>
         - PCB Lover/Designer<br>
-        - Enthusiastic Robotics<br>
+        - Robotics enthusiast<br>
         - C, C++ and Python<br>
         - Advanced portuguese🤓<br>
     </p>
