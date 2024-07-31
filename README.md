@@ -9,7 +9,7 @@
 <div class="info">
     <p text-align: "center">
         - Pedro Santana<br>
-        - I'm 19<br>
+        - I'm 20<br>
         - Electronics technician at the Federal Institute of Paraíba 2020.1<br>
         - Studying Computer Engineering at Federal University of Paraíba 2024.2<br>
         - Former researcher on Free Educational Robotics Group<br>
